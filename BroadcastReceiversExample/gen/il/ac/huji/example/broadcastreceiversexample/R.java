@@ -36,8 +36,13 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
+        public static final int blocking_call_str=0x7f050007;
+        public static final int boot_comp_str=0x7f050006;
+        public static final int call_blocked_str=0x7f050008;
         public static final int disable=0x7f050003;
         public static final int enable=0x7f050002;
+        public static final int sms_receiver_disabled=0x7f050005;
+        public static final int sms_receiver_enabled=0x7f050004;
     }
     public static final class style {
         /** 

@@ -37,7 +37,6 @@
             <intent-filter>
                 <action android:name="il.ac.huji.action.call_filtered"></action>
             </intent-filter>
-            
         </receiver>       
     </application>
 
